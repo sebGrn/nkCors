@@ -16,8 +16,6 @@ int main()
     // 5000 * 5000 ~3min
     // 10000 * 10000 ~30min
 
-    // diviser la matrice en N tâches
-    // lancer un thread par matrice réduite
     const unsigned int count(5000);
     const unsigned int rows(count);
     const unsigned int cols(count);
