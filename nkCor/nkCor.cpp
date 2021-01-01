@@ -13,7 +13,7 @@ int main()
     auto beginTime = std::chrono::system_clock::now();
 
     // 1000 * 1000 ~2sec
-    //
+    // 5000 * 5000 ~3min
     // 10000 * 10000 ~30min
 
     // diviser la matrice en N tâches
